@@ -1,4 +1,5 @@
-artifacts\artifact.joblib
+*.joblib
+artifacts/*.joblib
 dataset/artifact.joblib
-dataset\new_data_urls.csv
+dataset/new_data_urls.csv
 notebooks_to_docx.py
